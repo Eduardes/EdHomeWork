@@ -17,16 +17,16 @@ else
 // Задача 4. Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
 Console.Write("Input a first number: ");
-int n1 = Convert.ToInt32(Console.ReadLine());
+int a1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input a second number: ");
-int n2 = Convert.ToInt32(Console.ReadLine());
+int a2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input the third number: ");
-int n3 = Convert.ToInt32(Console.ReadLine());
+int a3 = Convert.ToInt32(Console.ReadLine());
 
-int max = n1;
+int max = a1;
 
-if(n2 > max) max = n2;
-if(n3 > max) max = n3;
+if(a2 > max) max = a2;
+if(a3 > max) max = a3;
 
 Console.WriteLine($"Самое большое число {max}" );
 
@@ -48,10 +48,10 @@ else
  // Задача 8. Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
 Console.Write("Input a namber ");
-int n = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
 
 int current = 1;
-while(current <=n)
+while(current <=b)
 {
     if(current % 2 == 0)
     {
