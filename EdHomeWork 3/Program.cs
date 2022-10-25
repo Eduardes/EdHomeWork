@@ -56,7 +56,7 @@ Console.WriteLine($"Расстояние между точками {res}");
 
 // Задача 23. Напишите программу, которая на входе принимает число (N) и выдаёт таблицу кубов чисел от 1 до N.
 
-int CalculateKube(int number)
+/*int CalculateKube(int number)
 {
     return number*number*number;
 }
@@ -69,5 +69,5 @@ while(i <= number)
     int Result = CalculateKube(i);
     Console.Write(Result + " ");
     i++;
-}
+}*/
 
