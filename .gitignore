@@ -111,6 +111,7 @@ ipch/
 *.файл кэша
 *.VC.db
 *.VC.VC.opendb
+*.csproj
 
 # Профилировщик Visual Studio
 *.psess
@@ -396,3 +397,15 @@ FodyWeavers.xsd
 
 # Гонщик JetBrains
 *.sln.iml
+EdHomeWork 2/bin/Debug/net6.0/EdHomeWork 2.deps.json
+EdHomeWork 2/bin/Debug/net6.0/EdHomeWork 2.dll
+EdHomeWork 2/bin/Debug/net6.0/EdHomeWork 2.exe
+EdHomeWork 2/bin/Debug/net6.0/EdHomeWork 2.runtimeconfig.json
+EdHomeWork 3/bin/Debug/net6.0/EdHomeWork 3.deps.json
+EdHomeWork 3/bin/Debug/net6.0/EdHomeWork 3.dll
+EdHomeWork 3/bin/Debug/net6.0/EdHomeWork 3.exe
+EdHomeWork 3/bin/Debug/net6.0/EdHomeWork 3.runtimeconfig.json
+EdHomeWork 4/bin/Debug/net6.0/EdHomeWork 4.deps.json
+EdHomeWork 4/bin/Debug/net6.0/EdHomeWork 4.dll
+EdHomeWork 4/bin/Debug/net6.0/EdHomeWork 4.exe
+EdHomeWork 4/bin/Debug/net6.0/EdHomeWork 4.runtimeconfig.json
